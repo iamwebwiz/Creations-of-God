@@ -1,4 +1,14 @@
 {
   "name": "creations-of-god",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "All things created by God",
+  "license": "MIT",
+  "repository": "iamwebwiz/Creations-of-God",
+  "main": "index.js",
+  "keywords": [
+    "creations",
+    "life",
+    "human",
+    "God"
+  ]
 }
