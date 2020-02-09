@@ -22,12 +22,16 @@ CommonJS module:
 
 ```javascript
 const { iamwebwiz } = require('creations-of-god');
+
+console.log(iamwebwiz); // returns "Ezekiel Oladejo"
 ```
 
 or with ES6 module:
 
 ```javascript
 import { iamwebwiz } from 'creations-of-god';
+
+console.log(iamwebwiz); // returns "Ezekiel Oladejo"
 ```
 
 Nice, right?
