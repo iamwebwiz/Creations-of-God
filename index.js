@@ -1,4 +1,1 @@
-module.exports = {
-  iamwebwiz: 'Ezekiel Oladejo',
-  santiago: 'Temitope Ilesanmi'
-};
+module.exports = require('./creationsOfGod.json');
