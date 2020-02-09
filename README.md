@@ -4,7 +4,7 @@
 
 > This is a fun package that was inspired by my Twitter display name: **import { iamwebwiz } from 'CreationsOfGod'**. Acknowledge that you are God's creation? Append your name here 🤓
 
-### Installation
+## Installation
 
 ```bash
 npm install creations-of-god
@@ -16,7 +16,7 @@ or with [Yarn](https://yarnpkg.com)
 yarn add creations-of-god
 ```
 
-### Usage
+## Usage
 
 CommonJS module:
 
@@ -32,6 +32,6 @@ import { iamwebwiz } from 'creations-of-god';
 
 Nice, right?
 
-### Contribution
+## Contribution
 
 Fork this repository, append your Twitter handle and your full (first & last) name to the `creationsOfGod.json` file and send in a **Pull Request**. It is that simple!
